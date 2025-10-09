@@ -3,9 +3,5 @@
 ## About the app
 - "app" folder stores Sparta app
 - uses Node JS v20
-new line for webhook testing d=====(￣▽￣*)b
 
-and another one on a new line... does this one work?
-
-- another edit to check
-- this thing better update I swear to god
+test line to push bc I'm going insane (:
